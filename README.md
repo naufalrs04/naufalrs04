@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalrs04&label=Profile%20views&color=0e75b6&style=flat" alt="naufalrs04" /> </p>
-<div style="text-align: center;">
-    <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Booting Up Developer Economy" width="600" />
+<div align="center">
+    <img src="https://img.etimg.com/thumb/width-700,height-400,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Booting Up Developer Economy" style="display: block; margin-left: auto; margin-right: auto;" width="600";/>
 </div>
 
 - 💬 Ask me about **Everything**
