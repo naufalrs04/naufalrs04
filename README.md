@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Everything**
 
-- 📫 Contact me **naufalrizkisaputra2004@gmail.com** - **+6281225717674**
+- 📫 Contact me **naufalrizkisaputra2004@gmail.com** or **+6281225717674**
 
 - ⚡ **I like eating and sleeping**
 
