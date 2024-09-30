@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naufal Rizki</h1>
+<h1 align="center">Hi 👋, I'm Naufal Rizki Saputra</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalrs04&label=Profile%20views&color=0e75b6&style=flat" alt="naufalrs04" /> </p>
@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Everything**
 
-- 📫 How to reach me **naufalrizkisaputra2004@gmail.com**
+- 📫 Contact me **naufalrizkisaputra2004@gmail.com** - **+6281225717674**
 
-- ⚡ Fun fact **I like sleeping**
+- ⚡ **I like eating and sleeping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
